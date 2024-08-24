@@ -2,7 +2,7 @@
 
 ---
 
-I'm an aspiring **Data science ** passionate about solving real-world problems using data and advanced algorithms. Currently, I'm on a journey to deepen my understanding of **Machine Learning** and its various applications.
+I'm an aspiring **Data science** passionate about solving real-world problems using data and advanced algorithms. Currently, I'm on a journey to deepen my understanding of **Machine Learning** and its various applications.
 
 ### 👀 What I'm Interested In
 - **Data Analysis**: Exploring data to uncover patterns and trends.
