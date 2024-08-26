@@ -43,5 +43,3 @@ I love exploring new technologies and collaborating on open-source projects! Fee
 ---
 
 Let's build something amazing together! 🚀
-
-![Profile Views](https://komarev.com/ghpvc/?username= vishalrathod20&color=brightgreen)
