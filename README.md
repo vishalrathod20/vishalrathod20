@@ -34,8 +34,8 @@ I'm an aspiring Data Scientist passionate about solving real-world problems usin
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishalrathod20&theme=radical)](https://git.io/streak-stats)
 
 ## 📫 How to Reach Me:
-- Connect with me on [LinkedIn](https://www.linkedin.com)
-- Check out my projects on [GitHub](https://github.com)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/vishal-rathod-065a3624b/)
+- Check out my projects on [GitHub](https://github.com/vishalrathod20)
 
 ## ⚡ Fun Fact:
 I love exploring new technologies and collaborating on open-source projects! Feel free to reach out if you're interested in working together on something exciting!
