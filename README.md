@@ -37,10 +37,6 @@ I'm an aspiring Data Scientist passionate about solving real-world problems usin
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishalrathod20&theme=radical)](https://git.io/streak-stats)
 
-## 📈 Contribution Graph:
-
-![Vishal's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vishalrathod20&theme=react-dark)
-
 ## 📫 How to Reach Me:
 - Connect with me on [LinkedIn](https://www.linkedin.com)
 - Check out my projects on [GitHub](https://github.com)
