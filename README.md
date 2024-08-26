@@ -24,8 +24,6 @@ I'm an aspiring Data Scientist passionate about solving real-world problems usin
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-00485f?style=flat&logo=plotly&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3f4f75?style=flat&logo=plotly&logoColor=white)
 
 ## 📊 GitHub Stats:
 
