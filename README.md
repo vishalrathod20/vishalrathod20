@@ -25,10 +25,6 @@ I'm an aspiring Data Scientist passionate about solving real-world problems usin
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-00485f?style=flat&logo=plotly&logoColor=white)
 
-## 📊 GitHub Stats:
-
-![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishalrathod20&show_icons=true&theme=radical)
-
 ## 📫 How to Reach Me:
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/vishal-rathod-065a3624b/)
 - Check out my projects on [GitHub](https://github.com/vishalrathod20)
