@@ -29,8 +29,6 @@ I'm an aspiring Data Scientist passionate about solving real-world problems usin
 
 ![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishalrathod20&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalrathod20&layout=compact&theme=radical)
-
 ## 🏆 GitHub Streak:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishalrathod20&theme=radical)](https://git.io/streak-stats)
